@@ -1,0 +1,2 @@
+import{H as o}from"./index.54aeab62.js";import"./index.f2c3687c.js";import"./iframe.9e729b5e.js";import"./index.e15ae1c9.js";import"./jsx-runtime.5d011f4d.js";const i={title:"Typography/Heading",component:o,args:{children:"Lorem ipsum dolor"}},m={},n={args:{children:"H1 Tag",as:"h1"},parameters:{docs:{description:{story:"Descri\xE7\xE3o da documaneta\xE7ao"}}}},d=["Primary","CustomTag"];export{n as CustomTag,m as Primary,d as __namedExportsOrder,i as default};
+//# sourceMappingURL=Heading.stories.87fd6554.js.map

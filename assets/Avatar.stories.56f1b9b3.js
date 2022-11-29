@@ -1,0 +1,2 @@
+import{A as t}from"./index.54aeab62.js";import"./index.f2c3687c.js";import"./iframe.9e729b5e.js";import"./index.e15ae1c9.js";import"./jsx-runtime.5d011f4d.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/AugustoCezardev.png",alt:"Avatar"}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.56f1b9b3.js.map
